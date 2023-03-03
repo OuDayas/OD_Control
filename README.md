@@ -12,6 +12,8 @@
   Controllo delle luci dei veicoli
   ed altro
   
+  <br>
+  
 ## Installazione
   Basta soltanto estrarre l'archivio della solita cartella `[oudayas]` ed avviarlo
   L'intero script di controlla nel file `config.lua`
